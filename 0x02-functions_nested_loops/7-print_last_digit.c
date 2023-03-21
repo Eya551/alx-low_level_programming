@@ -11,8 +11,7 @@ if (a < 0)
 {
 	_putchar(-a + 48);
 	return (-a);
-}
-else 
+}else 
 {       _putchar(a + 48);
 	return (a);
 }
